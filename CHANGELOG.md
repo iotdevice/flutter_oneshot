@@ -1,3 +1,7 @@
+## 0.0.4+2
+
+* namespace.
+
 ## 0.0.1
 
 * initial release.
